@@ -236,3 +236,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/spiral-cipher/count.svg)

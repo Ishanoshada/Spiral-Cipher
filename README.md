@@ -39,11 +39,11 @@ The package provides a Python API for programmatic usage.
 from spiral_cipher import encode, decode
 
 # Encode text
-encoded_text = encode("Hello, World!", key=3)
-print(encoded_text)  # Output: "KhooAAArog!,urZ"
+encoded_text = encode("Hello, World!", key=1111) # any key : int , ex : 9999999
+print(encoded_text)  # Output: "AxeeQQQhew!,khP"
 
 # Decode text
-decoded_text = decode(encoded_text, key=3)
+decoded_text = decode(encoded_text, key=1111)
 print(decoded_text)  # Output: "Hello, World!"
 ```
 

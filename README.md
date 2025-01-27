@@ -176,10 +176,10 @@ cipher.decrypt_file("encrypted.txt", "decrypted.txt")
 
 ```bash
 # Encode text
-spiral-cipher encode "Hello, World!" -k 3
+spiral-cipher encode "hellow" -k 3
 
 # Decode text
-spiral-cipher decode "Khoog$ro/urZ#" -k 3
+spiral-cipher decode "khoAAoAzr" -k 3
 
 # Encrypt a file
 spiral-cipher encode input.txt -f -o encrypted.txt -k 3
